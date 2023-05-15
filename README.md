@@ -33,10 +33,10 @@ I've been coding for past 1.5 years. I started my development journey from HTML 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ary0405"><img src="https://github-readme-stats.vercel.app/api?username=Ary0405&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="itskeshavdubey's GitHub stats" /></a>
+<a href="http://www.github.com/Ary0405"><img src="https://github-readme-stats.vercel.app/api?username=Ary0405&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ary0405's GitHub stats" /></a>
 
 <a href="http://www.github.com/Ary0405"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ary0405&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Ary0405"><img src="https://activity-graph.herokuapp.com/graph?username=itskeshavdubey&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Ary0405"><img src="https://activity-graph.herokuapp.com/graph?username=Ary0405&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Ary0405" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ary0405&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
