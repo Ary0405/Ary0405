@@ -11,6 +11,10 @@ Greetings, fellow tech enthusiasts! I'm Aryan, a skilled Full-stack Developer wi
 * 🤝  I'm open to collaborating on Web and App dev projects
 * ⚡  Proficient Procastinator
 
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ary0405&theme=onedark)](https://github.com/Ary0405/github-profile-trophy)
+
 ### Skills
 
 
